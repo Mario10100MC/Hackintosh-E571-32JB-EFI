@@ -2,6 +2,7 @@
 An Hackintosh EFI Specifically for the Acer Aspire E5-571-32JB
 
 EFI in Order
+
 **BS-OC** - Big Sur(Opencore)
 
 **CTLNA-OC** - Catalina(Opencore)
