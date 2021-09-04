@@ -1,5 +1,6 @@
 # Hackintosh-E571-32JB-EFI
 An Hackintosh EFI Specifically for the Acer Aspire E5-571-32JB
+All of the EFIs are modified from the Olarila's EFIs - https://olarila.com
 
 EFI in Order
 
