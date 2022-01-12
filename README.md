@@ -4,6 +4,10 @@ An Hackintosh EFI Specifically for the Acer Aspire E5-571-32JB
 **Note: All of the EFIs are modified from the Olarila EFIs** - https://olarila.com
 
 EFI in Order
+EDIT:
+
+**HS-CLVR** - High Sierra EFI(wifi driver not included, although horndis is included for
+installing the driver with a phone)
 
 **BS-OC** - Big Sur/Catalina(Opencore) **The Recomended EFI**
 ```
