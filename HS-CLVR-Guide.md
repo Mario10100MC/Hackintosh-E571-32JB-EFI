@@ -1,4 +1,4 @@
-#macOS High Sierra Guide - Clover
+# macOS High Sierra Guide - Clover
 
 *A Disclaimer: This Procedure Requires an Full Hard Drive Cleanup(if the usb is flashed with the Olarila Vanilla Image), since for some reason the Disk Utility Fails
 at formating and screws up the partitions, so it's **recomended** that you have to backup your things before installing this operating system
